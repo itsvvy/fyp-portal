@@ -6,7 +6,7 @@
 
 | Component | Repository |
 | --- | --- |
-| ♥️ RK3588 capture and sensor studio | [rk3588-sensor-studio](https://github.com/itsvvy/rk3588-sensor-studio) |
+| RK3588 capture and sensor studio ♥️ | [rk3588-sensor-studio](https://github.com/itsvvy/rk3588-sensor-studio) |
 | Camera calibration | [calibration_jetson](https://github.com/itsvvy/calibration_jetson) |
 | CIS stereo video splitting | [cis-split-png](https://github.com/itsvvy/cis-split-png) |
 | DVS event motion compensation | [dsec-event-motion-compensation](https://github.com/itsvvy/dsec-event-motion-compensation) |
